@@ -2,6 +2,7 @@
 
 * WebPage [here](https://kantab.github.io/testWeb/)
 * Lightning [here](https://kantab.github.io/lightning2/)
+* Dice [here](https://kantab.github.io/dice/)
 
 ```Java
 void mousePressed()
