@@ -5,7 +5,7 @@
 * Dice [here](https://kantab.github.io/dice3/)
 * Chemotaxis JS [here]( https://kantab.github.io/chemotaxis4/)
 * Starfeilds [here](https://kantab.github.io/starfield5/)
-This is my most worthy peice of code so far. This code is from my JS chemotaxis. I like this code because it was not only a little tricky to figure out how to cycle through the images but I then had to take this code and change it from Java to JavaScript, a launage I was learning at the time.
+* This is my most worthy peice of code so far. This code is from my JS chemotaxis. I like this code because it was not only a little tricky to figure out how to cycle through the images but I then had to take this code and change it from Java to JavaScript, a launage I was learning at the time.
 ```Java
  if (!mousePressed) {
     this.ss = true;
