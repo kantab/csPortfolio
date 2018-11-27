@@ -1,11 +1,11 @@
 # csPortfolio
 
 * WebPage [here](https://kantab.github.io/testWeb/)
-<details>
+
 <summary>About</summary>
 <br>
 This is how you dropdown.
-<details>
+
 * Lightning [here](https://kantab.github.io/lightning2/)
 * Dice [here](https://kantab.github.io/dice3/)
 * Chemotaxis JS [here]( https://kantab.github.io/chemotaxis4/)
