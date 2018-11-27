@@ -3,33 +3,32 @@
 
 <details>
 <summary>WebPage</summary> 
-<br>
+<br>(https://kantab.github.io/testWeb/)
 This project was desgined to give an introduction to HTML and JS. This was the first web page I made. 
 The hardest part was understanding a new launage.
  </br>
 </details>
-[here](https://kantab.github.io/testWeb/)
 <details>
-<summary>Lightning [here](https://kantab.github.io/lightning2/)</summary>
-<br>
+<summary>Lightning</summary>
+<br>(https://kantab.github.io/lightning2/)
 This project was desgined to practice using Math.random. The hardest part for the project was figuring out the layout of where the lighting starts and ends.
  </br>
 </details>
 <details>
-<summary>Dice [here](https://kantab.github.io/dice3/)</summary>
-<br>
+<summary>Dice</summary>
+<br>(https://kantab.github.io/dice3/)
 The project goal was to display dice on the screen and out put their sum. This was my favorite project beacuse I was able to put my own creative spin on it. I displayed the dice as a game where you would win if your sum of 3 dice was 3, or if all 3 numbers were the same.
  </br>
 </details>
 <details>
-<summary>Chemotaxis JS [here]( https://kantab.github.io/chemotaxis4/)</summary>
-<br>
+<summary>Chemotaxis JS</summary>
+<br>( https://kantab.github.io/chemotaxis4/)
 The project was desgined to learn a bit more with arrylist. The hardest part of this project was once I was complete I converted the code into JavaScript. This was the first time I had worked with JavaScript. 
  </br>
 </details>
 <details>
-<summary>Starfeilds [here](https://kantab.github.io/starfield5/)</summary>
-<br>
+<summary>Starfeilds</summary>
+<br>(https://kantab.github.io/starfield5/)
 This project was by far the hardest for me to understand. I had a hard time understaning how th objects were to be displayed on the screen and the angle in which they moved. I had to partner up with other class mates so they could show me how it worked.
  </br>
 </details>
