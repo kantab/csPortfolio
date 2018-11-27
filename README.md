@@ -32,7 +32,7 @@ The project was desgined to learn a bit more with arrylist. The hardest part of 
 This project was by far the hardest for me to understand. I had a hard time understaning how th objects were to be displayed on the screen and the angle in which they moved. I had to partner up with other class mates so they could show me how it worked.
  </br>
 </details>
----
+***
  This is my most worthy peice of code so far. This code is from my JS chemotaxis. I like this code because it was not only a little tricky to figure out how to cycle through the images but I then had to take this code and change it from Java to JavaScript, a launage I was learning at the time.
 ```Java
  if (!mousePressed) {
