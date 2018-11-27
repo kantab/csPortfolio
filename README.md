@@ -2,9 +2,11 @@
 
 * WebPage [here](https://kantab.github.io/testWeb/)
 
-<summary>About</summary>
-<br>
+<details>
+<summary>How do I dropdown?</summary>
+
 This is how you dropdown.
+<details>
 
 * Lightning [here](https://kantab.github.io/lightning2/)
 * Dice [here](https://kantab.github.io/dice3/)
