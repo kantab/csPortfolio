@@ -2,7 +2,7 @@
 
 
 <details>
-<summary>WebPage [here](https://kantab.github.io/testWeb/)</summary>
+<summary>WebPage</summary> [here](https://kantab.github.io/testWeb/)
 <br>
 This project was desgined to give an introduction to HTML and JS. This was the first web page I made. 
 The hardest part was understanding a new launage.
