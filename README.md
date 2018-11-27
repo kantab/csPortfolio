@@ -6,7 +6,7 @@
 <summary>About</summary>
 <br>
 Well, you asked for it!
-<details>
+</details>
 
 * Lightning [here](https://kantab.github.io/lightning2/)
 * Dice [here](https://kantab.github.io/dice3/)
